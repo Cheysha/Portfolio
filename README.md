@@ -7,21 +7,21 @@ A Project targeting embedded microcontrollers such as the Espressif ESP32 and th
 
 [Insert screenshot or demo of project]
 
-[Link to repository or live demo]
+[WeatherStation](https://github.com/Cheysha/Portfolio/tree/main/WeatherStation-main)
 
 ### PokeGame2 
 Version 2 of the Pokegame, which I developed during my Computer Science I course, incorporates exciting new features. Utilizing pandas dataframes, it can generate Pokemon from a database. In addition, I aim to add a multiplayer mode that runs over TCP, powered by the Python sockets module.
 
 [Insert screenshot or demo of project]
 
-[Link to repository or live demo]
+[PokeGame2](https://github.com/Cheysha/Portfolio/tree/main/PokeGame2-main)
 
 ### PyScraper
 A Python-based comment scraper utilizing the PushShift REST API. The program searches a specified subreddit for a specific phrase and returns a defined number of comments that contain said phrase, allowing user to search for a phrase within the context of comments. Providing functionality not available through first-party tools.
 
 [Insert screenshot or demo of project]
 
-[Link to repository or live demo]
+[Pyscraper](https://github.com/Cheysha/Portfolio/tree/main/PyScrape-main)
 
 ## Skills and Technologies
 Here are some of the skills and technologies that I have experience with:
