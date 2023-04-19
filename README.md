@@ -2,7 +2,7 @@
 Hello and welcome to my Github portfolio! Here, you will find a showcase of some of the projects that I have worked on.
 
 ## Projects
-### Project 1: WeatherStation
+### WeatherStation
 A Project targeting embedded microcontrollers such as the Espressif ESP32 and the Raspberry Pi Pico. Utilizing the Arduino framework, the project demonstrates capabilities of these devices. The Example Project is a weather station that leverages the power of an ESP32 microcontroller to connect to a WLAN and present real-time weather data obtained through HTTP on an external serial monitor.
 
 [Insert screenshot or demo of project]
